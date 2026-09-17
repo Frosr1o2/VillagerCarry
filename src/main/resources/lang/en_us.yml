@@ -1,0 +1,13 @@
+items:
+  villager: "&aVillager"
+  wandering_trader: "&bWandering Trader"
+  zombie_villager: "&aZombie Villager"
+
+messages:
+  villager: "&aVillager picked up"
+  trader: "&aWandering trader picked up"
+  zombie: "&aZombie villager picked up"
+  place: "&aEntity placed"
+  full: "&cNot enough inventory space"
+  failed: "&cCould not pick up entity"
+  restore: "&cCould not place entity"

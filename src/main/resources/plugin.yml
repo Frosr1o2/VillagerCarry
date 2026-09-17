@@ -1,0 +1,6 @@
+name: VillagerCarry
+version: 1.0.0
+main: com.frosr1o2.VillagerCarry.VillagerCarryPlugin
+api-version: '1.21'
+description: Carry and restore villagers, wandering traders and zombie villagers as textured heads.
+author: Omnom
